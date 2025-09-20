@@ -126,7 +126,7 @@ const categories = {
 	  [FIELDS[4]]: "ZNA MED SINGEN",
 	  [FIELDS[5]]: "21",
 	  [FIELDS[1]]: "1203",
-	  [FIELDS[7]]: "9101", icon: "fa-hospital" },
+	  [FIELDS[7]]: "9201", icon: "fa-hospital" },
       { label: "DR. ZWICKER", 
 	  [FIELDS[2]]: "KH - KN",
 	  [FIELDS[3]]: "PO3",
